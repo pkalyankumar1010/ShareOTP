@@ -2,9 +2,9 @@
 
 An Android application that automatically reads SMS messages, extracts OTPs and transaction details, and forwards them to Telegram. Perfect for monitoring Swiggy orders and other OTP-based transactions.
 <div align="center">
-    <img src="home.jpg" width="300" style="padding-right: 10px;">
-    <img src="telegramgroupbot.jpg" width="300" style="padding-right: 10px;">
-    <img src="senthistory.jpg" width="300" style="padding-left: 10px;">
+    <img src="home.jpg" width="250" style="padding-right: 0px;">
+    <img src="telegramgroupbot.jpg" width="250" style="padding-right: 0px;">
+    <img src="senthistory.jpg" width="250" style="padding-left: 0px;">
 </div>
 ## Features
 
