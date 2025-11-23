@@ -1,6 +1,9 @@
 # ShareOTP (Swiggy SMS Reader)
 
 An Android application that automatically reads SMS messages, extracts OTPs and transaction details, and forwards them to Telegram. Perfect for monitoring Swiggy orders and other OTP-based transactions.
+
+> ⚠️ **Disclaimer**: This project is for educational purposes only. Use it at your own risk. The developers are not responsible for any misuse of this software or any consequences that may arise from its use. Please ensure you comply with all applicable laws and regulations in your jurisdiction.
+
 <div align="center">
     <img src="home.jpg" width="250" style="padding-right: 0px;">
     <img src="telegramgroupbot.jpg" width="250" style="padding-right: 0px;">
@@ -216,6 +219,15 @@ adb install app/build/outputs/apk/debug/app-debug.apk
 ```bash
 ./gradlew test
 ```
+
+## ⚠️ Disclaimer
+
+**This project is for educational purposes only. Use it at your own risk.**
+
+- The developers are not responsible for any misuse of this software
+- Users are solely responsible for ensuring compliance with all applicable laws and regulations in their jurisdiction
+- This software accesses SMS messages and forwards them to external services - use responsibly
+- The developers assume no liability for any damages or consequences arising from the use of this software
 
 ## License
 
