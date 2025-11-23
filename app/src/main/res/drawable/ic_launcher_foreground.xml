@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Envelope body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,34 L84,34 L84,74 L24,74 Z" />
+        
+    <!-- Envelope flap (triangle) -->
+    <path
+        android:fillColor="#FFE0B2"
+        android:pathData="M24,34 L54,54 L84,34 Z" />
+        
+    <!-- Text lines inside -->
+    <path
+        android:fillColor="#E65100"
+        android:pathData="M34,60h40v4h-40zM34,50h20v4h-20z" />
+
+</vector>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Brand Colors (Orange Theme) -->
+    <color name="primary_orange">#FF6D00</color>
+    <color name="primary_orange_dark">#E65100</color>
+    <color name="primary_orange_light">#FFE0B2</color>
+    <color name="accent_blue">#2979FF</color>
+    
+    <!-- Backgrounds -->
+    <color name="bg_light">#F5F5F5</color>
+    <color name="surface_white">#FFFFFF</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+</resources>

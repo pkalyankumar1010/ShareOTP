@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/FirstFragment">
+
+    <fragment
+        android:id="@+id/FirstFragment"
+        android:name="com.example.swiggysmsreader.FirstFragment"
+        android:label="ShareOTP"
+        tools:layout="@layout/fragment_first">
+    </fragment>
+    <fragment
+        android:id="@+id/SecondFragment"
+        android:name="com.example.swiggysmsreader.SecondFragment"
+        android:label="Second Fragment"
+        tools:layout="@layout/fragment_second">
+    </fragment>
+    <fragment
+        android:id="@+id/TestSmsFragment"
+        android:name="com.example.swiggysmsreader.TestSmsFragment"
+        android:label="Test SMS"
+        tools:layout="@layout/fragment_test_sms" />
+    <fragment
+        android:id="@+id/SettingsFragment"
+        android:name="com.example.swiggysmsreader.SettingsFragment"
+        android:label="Settings"
+        tools:layout="@layout/fragment_settings" />
+    <fragment
+        android:id="@+id/TelegramConfigFragment"
+        android:name="com.example.swiggysmsreader.TelegramConfigFragment"
+        android:label="Telegram Config"
+        tools:layout="@layout/fragment_telegram_config" />
+    <fragment
+        android:id="@+id/HistoryFragment"
+        android:name="com.example.swiggysmsreader.HistoryFragment"
+        android:label="Sent History"
+        tools:layout="@layout/fragment_history" />
+    <fragment
+        android:id="@+id/HelpFragment"
+        android:name="com.example.swiggysmsreader.HelpFragment"
+        android:label="How it Works"
+        tools:layout="@layout/fragment_help" />
+</navigation>
