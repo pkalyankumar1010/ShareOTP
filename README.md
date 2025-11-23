@@ -6,6 +6,14 @@ An Android application that automatically reads SMS messages, extracts OTPs and 
     <img src="telegramgroupbot.jpg" width="250" style="padding-right: 0px;">
     <img src="senthistory.jpg" width="250" style="padding-left: 0px;">
 </div>
+<div align="center">
+
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen.svg?style=for-the-badge&logo=android)](https://raw.githubusercontent.com/pkalyankumar1010/ShareOTP/refs/heads/main/ShareOTP.apk)
+
+**Direct Download**: [ShareOTP.apk](https://raw.githubusercontent.com/pkalyankumar1010/ShareOTP/refs/heads/main/ShareOTP.apk)
+
+</div>
+
 ## Features
 
 - 📱 **Automatic SMS Monitoring**: Receives and processes SMS messages in real-time
